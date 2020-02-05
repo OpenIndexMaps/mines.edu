@@ -1,1 +1,1 @@
-# mines.edu
+# edu.mines
